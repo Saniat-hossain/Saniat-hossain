@@ -14,11 +14,7 @@ Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on [Two Unique Solution](https://twouniquesolution.com/)
   
-- 🌱 I’m currently learning Golang, Java, C++
-
 - 👨‍💻 All of my projects are available at [https://github.com/Saniat-hossain](https://github.com/Saniat-hossain)
-
-- 💬 Ask me about **HTML5, CSS3, JS, Bootstrap**
 
 - 📫 How to reach me **saniathossain66@gmail.com**
 
