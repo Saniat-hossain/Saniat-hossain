@@ -39,6 +39,25 @@ Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 <hr/>
 <br/>
 
+## 🛠 Skills
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=yellow"/>
+  <img src="https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=blue"/>
+  <img src="https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=61DAFB"/>
+  <img src="https://img.shields.io/badge/Framework-Next.js-informational?style=flat&logo=nextdotjs&logoColor=white&color=000000"/>
+  <img src="https://img.shields.io/badge/Backend-Node.js-informational?style=flat&logo=nodedotjs&logoColor=white&color=339933"/>
+  <img src="https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=47A248"/>
+  <img src="https://img.shields.io/badge/Styles-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=563D7C"/>
+  <img src="https://img.shields.io/badge/Styles-Tailwind%20CSS-informational?style=flat&logo=tailwindcss&logoColor=white&color=38B2AC"/>
+  <img src="https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=F05032"/>
+  <img src="https://img.shields.io/badge/Editor-VS%20Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=007ACC"/>
+</p>
+
+
+
+
+
 ## Github Stats -
 
 <p align="center">
